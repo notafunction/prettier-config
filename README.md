@@ -10,7 +10,12 @@ Personal prettier configuration
 $ npm i --dev @notafunction/prettier-config
 ```
 
-### Edit `package.json`:
+### Add `.prettierrc`
+```jsonc
+"@notafunction/prettier-config"
+```
+
+### Or in `package.json`:
 
 ```jsonc
 {
