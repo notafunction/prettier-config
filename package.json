@@ -1,0 +1,25 @@
+{
+  "name": "@notafunction/prettier-config",
+  "version": "0.0.0",
+  "description": "Prettier configurations",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "files": [
+    "index.js",
+    ".prettierignore"
+  ],
+  "author": "Matt Latham <matt@mattlatham.dev>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "prettier": "^3.1.1"
+  },
+  "prettier": "./index.js"
+}
