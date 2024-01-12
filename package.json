@@ -1,6 +1,6 @@
 {
     "name": "@notafunction/prettier-config",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Prettier configurations",
     "main": "index.js",
     "scripts": {
